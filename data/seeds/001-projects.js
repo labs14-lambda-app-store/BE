@@ -9,4 +9,4 @@ exports.seed = function(knex, Promise) {
         {name: 'Lambda App Store 3', github: 'https://github.com/LambdaSchool3', short_description: 'Lambda App Store labs project 3'},
       ]);
     });
-}
+};
